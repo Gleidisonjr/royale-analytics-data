@@ -1,0 +1,18 @@
+{
+  "total_battles": 984977,
+  "period_start": "NaT",
+  "period_end": "NaT",
+  "total_cards": 168,
+  "total_arenas": 24,
+  "avg_elixir_winner": 3.707,
+  "avg_elixir_loser": 3.798,
+  "levels_available": true,
+  "trophy_ranges": {
+    "<3k": 72330,
+    "3-5k": 1196,
+    "5-7k": 32407,
+    "7-9k": 49831,
+    "9-12k": 173440,
+    "12k+": 655773
+  }
+}
